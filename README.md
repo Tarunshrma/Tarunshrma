@@ -11,7 +11,7 @@ Seasoned Web3 Engineer with extensive experience across all key components of We
 
 ### ![Blockchain](https://img.icons8.com/color/48/cryptocurrency.png) Blockchain & Smart Contract Development
 - Experience in EVM and Non-EVM chains like Ethereum, XDC, Solana, Lisk.
-- Design and developed key components of https://app.fathom.com defi protocols like off-chain components like oracle app, bots, indexers and on-chain components. 
+- Design and developed key components of [https://app.fathom.com](https://dapp.fathom.fi/#/fxd) defi protocols like off-chain components like oracle app, bots, indexers and on-chain components. 
 - Setup automated ci/cd pipeline using github action, argocd.
 - Setup monitoring systems using jaeger, prometheus, grafana. 
 
