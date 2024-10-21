@@ -11,7 +11,7 @@ Seasoned Web3 Engineer with extensive experience across all key components of We
 
 ### ![Blockchain](https://img.icons8.com/color/48/cryptocurrency.png) Blockchain & Smart Contract Development
 - Experience in EVM and Non-EVM chains like Ethereum, XDC, Solana, Lisk.
-- Design and developed key components of [https://app.fathom.com](https://dapp.fathom.fi/#/fxd) defi protocols like off-chain components like oracle app, bots, indexers and on-chain components. 
+- Design and developed key components of [https://dapp.fathom.com](https://dapp.fathom.fi/#/fxd) defi protocols like off-chain components like oracle app, bots, indexers and on-chain components. 
 - Setup automated ci/cd pipeline using github action, argocd.
 - Setup monitoring systems using jaeger, prometheus, grafana. 
 
@@ -55,7 +55,7 @@ Seasoned Web3 Engineer with extensive experience across all key components of We
 ---
 
 ## 💼 Experience Highlights
-- 15+ years of experience in developing and executing mobile applications using native and cross-platform frameworks.
+- 15+ years of experience in developing software applications using different techologies like mobile app developement, web2 and web3.
 - Extensive experience in **Agile** framework and well-versed with tools like **Jira**, **Confluence**, and estimation techniques such as **Poker Planning**.
 - Hands-on experience in **full-stack development** and building scalable applications using modern web technologies like ReactJS, Express/NodeJS, and **Golang**.
 - Proficient in building and deploying microservices using **Docker**, **Kubernetes**, and managing complex CI/CD pipelines.
