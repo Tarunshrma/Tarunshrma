@@ -1,6 +1,7 @@
-# Tarun Sharma ![Ethereum](https://img.icons8.com/color/48/ethereum.png) ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
+# Tarun Sharma 
 
-**Certified Ethereum Developer** with extensive experience in Smart Contract development using Solidity. Proficient in building decentralized applications (DApps) using **Truffle**, **Web3JS**, **Ganache**, and **Infura**.
+Seasoned Web3 Engineer with extensive experience across all key components of Web3 projects, including liquidation bots, arbitrage bots, oracles, indexers, and on-chain components. Skilled at bridging Web3 and Web2 technologies, with a strong background in cloud-native architecture and scalable microservice design. 15+ years of hands-on development across a wide array of technologies, including mobile applications (native and cross-platform), full-stack development, and API design.
+
 
 [![GitHub](https://img.icons8.com/fluent/48/github.png) GitHub Profile](https://github.com/Tarunshrma)
 
@@ -9,12 +10,13 @@
 ## 🛠 Skills
 
 ### ![Blockchain](https://img.icons8.com/color/48/cryptocurrency.png) Blockchain & Smart Contract Development
-- Solidity Smart Contracts
-- DApps development using **Truffle**, **Web3JS**, **Ganache**, **Infura**
-- Ethereum Blockchain Architecture
+- Experience in EVM and Non-EVM chains like Ethereum, XDC, Solana, Lisk.
+- Design and developed key components of https://app.fathom.com defi protocols like off-chain components like oracle app, bots, indexers and on-chain components. 
+- Setup automated ci/cd pipeline using github action, argocd.
+- Setup monitoring systems using jaeger, prometheus, grafana. 
 
 ### ![Mobile](https://img.icons8.com/color/48/iphone.png) Mobile Application Development
-- **15+ Years** of experience in mobile app development
+- **10+ Years** of experience in mobile app development
 - Native Development: **Xcode**, **Objective-C**, **Swift (iOS)**, **Java (Android)**
 - Cross-Platform: **Xamarin for iOS & Android**
 - App Deployment: **Apple Store**, **Google Play Store**
@@ -22,11 +24,11 @@
 
 ### ![Cloud](https://img.icons8.com/color/48/cloud.png) Cloud Computing
 - **AWS Certified Solutions Architect (Associate)**
-- Expertise in AWS Services: **EC2**, **Beanstalk**, **VPN**, **S3**, **IAM**, **DynamoDB**, **Lambda Functions**, **Elastic Load Balancer**
-- Serverless architecture using **AWS Lambda & DynamoDB**
+- Experience in multiple cloud providers like AWS, DigitalOcean and GCP.
+- Serverless architecture using **AWS Lambda & Serverless Framework**
 
 ### ![Full Stack](https://img.icons8.com/color/48/code.png) Full Stack Development
-- **ReactJS**, **Express/NodeJS**, **Golang**
+- **ReactJS**, **Express/NodeJS**, **Golang** **Rust**
 - API Development and Serverless Framework
 - Database Expertise: **DynamoDB**, **AWS RDS**
 - Microservices architecture, event-driven design, **gRPC**, **Kafka**
